@@ -3129,8 +3129,7 @@ margin-left: 95px; }
 .animation {
   height:50px;
   overflow:hidden;
-  font-size: xx-large;
-  font-family:"Lora" ;
+  font-size: 35px;
 }
 
 .animation > div > div {
