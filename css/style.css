@@ -3122,17 +3122,17 @@ margin-left: 95px; }
 #kst{
   margin-bottom: 17px;
 }
-
-#java{
-  height: 190px;
-}
-
 #ms{
   width: 110px;
   border-radius: 55px;
   padding: 10px;
 }
 #mst{
-  margin-bottom: 1px;
+  margin-bottom: 17px;
 }
+
+#java{
+  height: 190px;
+}
+
 /*---------------------------------------------------- */
